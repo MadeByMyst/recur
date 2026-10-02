@@ -1,0 +1,5 @@
+# Editor settings
+.vscode/
+
+# Full-size product photos (the site uses the WebP copies in assets/products/)
+originals/
